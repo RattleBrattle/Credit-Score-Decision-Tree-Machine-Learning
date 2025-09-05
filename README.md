@@ -21,7 +21,7 @@ Also these are the patterns that made the columns broken, and this is a method I
 
 ## Visualizations:
 
-- The Visualizations of the dataset are in the Visualizations folder but here are some pictures I took.
+The Visualizations of the dataset are in the Visualizations folder but here are some pictures I took.
 ![Occupation with credit score hue](https://github.com/RattleBrattle/Credit-Score-Decision-Tree-Machine-Learning/blob/main/Visualizations%20&%20Code%20Images/Occupation%20with%20credit%20score%20hue..png?raw=true)
 
 ![Before & After outliers](https://github.com/RattleBrattle/Credit-Score-Decision-Tree-Machine-Learning/blob/main/Visualizations%20&%20Code%20Images/Monthly%20Inhand%20Salary%20Boxplot%20before%20and%20after%20Winsorize..png?raw=true)
