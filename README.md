@@ -33,4 +33,12 @@ I've used a Decision Tree Machine Learning Algorithm to predict the credit score
 
 ## 1. Decision Tree Model:
 - I Used GridSearchCV to search for the best parameters to use with the model and managed to obtain a 79% accuracy on the test set and a confusion matrix that looks like this:
-![Confusion Matrix of Decision Tree]()
+![Confusion Matrix of Decision Tree](https://github.com/RattleBrattle/Credit-Score-Decision-Tree-Machine-Learning/blob/main/Visualizations%20&%20Code%20Images/Decision%20Tree%20Confusion%20Matrix.png?raw=true)
+
+# 2. Random Forest Model:
+- I ran a Random Forest Model and managed to obtain a 82% accuracy on the test set and a confusion matrix that looks like this:
+![Confusion Matrix of Random Forest Model](https://github.com/RattleBrattle/Credit-Score-Decision-Tree-Machine-Learning/blob/main/Visualizations%20&%20Code%20Images/Random%20Forest%20Confusion%20Matrix.png?raw=true)
+
+# Conclusion:
+- I've used a Decision Tree Machine Learning Algorithm to predict the credit score of a customer and also tried making a Random Forest Tree Model and the results did improve but not by alot.
+- I've used a test-validate-train split of 60-20-20 and then used GridSearchCV to search for the best parameters to use with the models.
